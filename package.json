@@ -1,0 +1,8 @@
+{
+  "name": "Manager",
+  "version": "0.1.0",
+  "description": "Superior manager bot",
+  "main": "bot.js",
+  "author": "Puupuls",
+  "dependencies": {}
+}
